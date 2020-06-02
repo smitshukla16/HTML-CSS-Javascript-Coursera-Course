@@ -5,7 +5,7 @@ This repository is for the assignments in the ["HTML, CSS, and Javascript for We
 ## Assignments
 Module2 Assignment:
 - [Solution](https://smitshukla16.github.io/HTML-CSS-Javascript-Coursera-Course/module2/)
-- [Source code](./module2_solution)
+- [Source code](./module2)
 
 Module3 Assignment:
 - [Solution](https://smitshukla16.github.io/HTML-CSS-Javascript-Coursera-Course/module3_solution/)
