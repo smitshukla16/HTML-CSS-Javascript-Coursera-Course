@@ -1,7 +1,5 @@
 My assignments for the coursera course - "HTML, CSS, and Javascript for Web Developers"# Coursera: HTML, CSS and Javascript for Web Developers
 
-This repository is for the assignments in the ["HTML, CSS, and Javascript for Web Developers"](https://www.coursera.org/learn/html-css-javascript-for-web-developers) course by [Yaakov Chaikin](https://www.coursera.org/instructor/yaakov-chaikin).
-
 ## Assignments
 Module2 Assignment:
 - [Solution](https://smitshukla16.github.io/HTML-CSS-Javascript-Coursera-Course/module2/)
